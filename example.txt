@@ -2,6 +2,6 @@ Welcome to awsdevops class
 
 Hi
 
-Updating dev 1
-
 Updating dev 2
+
+Updating dev 1
